@@ -1,4 +1,3 @@
-# Upload-your-resume-get-insights-on-missing-tech-skills.
 # AI Resume Analyzer
 
 A simple AI-powered tool to analyze your resume (PDF or DOCX), detect tech skills you have, and suggest missing skills to improve your profile.
@@ -13,7 +12,7 @@ A simple AI-powered tool to analyze your resume (PDF or DOCX), detect tech skill
 
 ## How to Use
 
-1. Open the [Google Colab notebook]((https://colab.research.google.com/notebooks/intro.ipynb))  
+1. Open the [Google Colab notebook]([link-to-your-notebook](https://colab.research.google.com/notebooks/intro.ipynb))  
 2. Run the cells one by one  
 3. Upload your resume when prompted  
 4. View detected and missing skills in the output  
@@ -47,5 +46,5 @@ MIT License
 ## Contact
 
 Created by Ameni Selmi  
-
+[Your LinkedIn or Website]
 
